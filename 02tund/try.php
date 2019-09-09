@@ -32,6 +32,6 @@
   <?php 
   echo "<p> Lehe avamisel hetkel oli " .$partOfDay .".</p>";
   ?>
-
+  <hr>
 </body>
 </html>
